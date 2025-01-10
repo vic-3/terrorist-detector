@@ -1,0 +1,5 @@
+path: Content/gdrive/My Drive/terrorist detector/datasets/output
+train: /content/gdrive/My Drive/terrorist detector/datasets/output/train/images
+val: /content/gdrive/My Drive/terrorist detector/datasets/output/val/images
+names:
+  0: terrorist
